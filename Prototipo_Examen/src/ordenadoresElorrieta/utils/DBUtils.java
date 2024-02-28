@@ -1,6 +1,6 @@
-package ficheros;
+package ordenadoresElorrieta.utils;
 
-public class Ficheros {
+public class DBUtils {
 
 	// La URL donde esta la Base de Datos. Se descompone en:
 			// driver : bbd : // IP : Puerto / Schema
@@ -11,5 +11,5 @@ public class Ficheros {
 			
 			// Nombre y Pass de acceso a la Base de Datos
 			public static final String USER = "root";
-			public static final String PASS = "dayana";
+			public static final String PASS = "elorrieta";
 }
